@@ -1,6 +1,6 @@
 - 👋 </Hello world>, I’m Mohamamd Namdar
 - 👀 I’m interested in programing thing...
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Django
 - 📫 How to reach me -> MohNamdar01@gmail.com
 
 <!---
