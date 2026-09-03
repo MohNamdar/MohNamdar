@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+<rect width="800" height="480" rx="28" fill="#0b1512"/><rect x="170" y="115" width="460" height="250" rx="18" fill="none" stroke="#9dff6d" stroke-width="4"/>
+<rect x="210" y="150" width="250" height="165" rx="8" fill="#111c18" stroke="#74d9ff" stroke-width="2"/><path d="M490 170h90M490 205h90M490 240h70M490 275h80" stroke="#9dff6d" stroke-width="5" stroke-linecap="round"/>
+<text x="335" y="345" text-anchor="middle" fill="#e8edf2" font-size="42" font-family="Arial,sans-serif" font-weight="800">MenuPot</text>
+<text x="400" y="420" text-anchor="middle" fill="#8b97a5" font-size="18" font-family="Arial,sans-serif">PYTHON · DJANGO · POSTGRESQL</text></svg>

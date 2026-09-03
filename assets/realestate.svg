@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+<rect width="800" height="480" rx="28" fill="#0d1119"/><path d="M165 335 270 235l80 65 105-125 180 160" fill="none" stroke="#74d9ff" stroke-width="6" opacity=".8"/>
+<circle cx="550" cy="150" r="62" fill="none" stroke="#9dff6d" stroke-width="5"/><path d="M520 150h60M550 120v60" stroke="#9dff6d" stroke-width="5" stroke-linecap="round"/>
+<text x="400" y="92" text-anchor="middle" fill="#e8edf2" font-size="35" font-family="Arial,sans-serif" font-weight="700">REAL ESTATE AI OPS</text>
+<text x="400" y="420" text-anchor="middle" fill="#8b97a5" font-size="18" font-family="Arial,sans-serif">AI · AUTOMATION · CRM</text></svg>
